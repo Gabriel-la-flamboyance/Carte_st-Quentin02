@@ -17,7 +17,7 @@ import sys
 from datetime import datetime
 
 # Clé secrète - NE PAS PARTAGER CE FICHIER
-SECRET_KEY = "amiens_flyers_2024_secret_key_xyz789"
+SECRET_KEY = "stquentin_flyers_2026_secret_key_qwx456"
 
 # Fichier de stockage des IDs
 IDS_FILE = "authorized_ids.json"
@@ -122,7 +122,7 @@ def print_usage():
     """Affiche l'aide."""
     print("""
 ╔════════════════════════════════════════════════════════════════╗
-║        GÉNÉRATEUR D'IDs - Distribution de Flyers Amiens        ║
+║      GÉNÉRATEUR D'IDs - Distribution de Flyers St-Quentin     ║
 ╚════════════════════════════════════════════════════════════════╝
 
 COMMANDES DISPONIBLES:
