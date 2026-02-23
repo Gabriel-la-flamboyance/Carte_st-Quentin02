@@ -1,8 +1,8 @@
-# 📍 Flyers Amiens - Distribution Tracker
+# 📍 Flyers st-Quentin 02 - Distribution Tracker
 
 ## 🎯 C'est quoi ce projet ?
 
-C'est une application web qui permet de **suivre la distribution de flyers dans les rues d'Amiens**. 
+C'est une application web qui permet de **suivre la distribution de flyers dans les rues d'st-Quentin 02**. 
 
 Imaginez que vous avez plusieurs personnes qui distribuent des flyers dans différentes rues de la ville. Cette application vous permet de :
 - ✅ Savoir exactement quelles rues ont déjà été faites
@@ -15,7 +15,7 @@ Imaginez que vous avez plusieurs personnes qui distribuent des flyers dans diff�
 ### Pour les distributeurs
 1. Ils reçoivent un **code d'accès unique** (comme un mot de passe)
 2. Ils ouvrent l'application sur leur téléphone
-3. Ils voient une carte avec toutes les rues d'Amiens
+3. Ils voient une carte avec toutes les rues d'st-Quentin 02
 4. Quand ils terminent une rue, ils cliquent dessus → elle devient verte
 5. Les autres distributeurs voient immédiatement cette mise à jour
 
@@ -56,3 +56,4 @@ Double-cliquez sur `index.html` dans votre navigateur web
 ## 🎨 En résumé
 
 C'est comme Google Maps + un système de "fait/pas fait" pour organiser efficacement la distribution de flyers dans toute une ville ! 🎉
+
